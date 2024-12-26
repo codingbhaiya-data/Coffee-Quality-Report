@@ -36,6 +36,7 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 5. *Adding Calculated Columns and Measures:* DAX (Data Analysis Expressions) formulas were used to create calculated columns and measures essential for analysis.
 
 # Dashboard 
+*Live Dashboard *: https://app.powerbi.com/reportEmbed?reportId=0fd43bd2-60d1-4e2b-844f-ccd2fbc2bcf3&autoAuth=true&ctid=17ab909c-063d-42f2-b3c6-602c9225fa1f
 ![Screenshot 2024-12-26 122615](https://github.com/user-attachments/assets/27c12920-cdae-47f3-99cd-24f7631c7a1e)
 
 ![Screenshot 2024-12-26 122632](https://github.com/user-attachments/assets/754323d7-e733-455e-a3a3-1c3788850196)
@@ -74,5 +75,5 @@ Some of the key DAX formulas used in the project include:
 8. How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
 ## Conclusion 
-he analysis revealed that certain sensory attributes, such as flavor and aroma, are strong indicators of high coffee quality. Processing methods also play a significant role, with washed and natural methods generally yielding higher quality scores. Additionally, specific regions consistently produce superior coffee, highlighting the importance of origin in coffee quality. The findings from this project can help coffee producers and marketers focus on the key areas that enhance coffee quality, ultimately leading to better products and customer satisfaction.
+The analysis revealed that certain sensory attributes, such as flavor and aroma, are strong indicators of high coffee quality. Processing methods also play a significant role, with washed and natural methods generally yielding higher quality scores. Additionally, specific regions consistently produce superior coffee, highlighting the importance of origin in coffee quality. The findings from this project can help coffee producers and marketers focus on the key areas that enhance coffee quality, ultimately leading to better products and customer satisfaction.
 
