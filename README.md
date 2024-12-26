@@ -37,18 +37,18 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 
 ## Dashboard Requirements
 The dashboard includes various visualizations to provide a comprehensive overview of the data:
-Score Distribution: Bar charts and histograms showing the distribution of sensory scores.
-Regional Analysis: Maps and charts highlighting coffee quality variations across different regions.
-Processing Methods: Pie charts and bar graphs depicting the impact of processing methods on coffee quality.
-Defect Analysis: Scatter plots and line charts illustrating trends in defect occurrences.
+- Score Distribution: Bar charts and histograms showing the distribution of sensory scores.
+- Regional Analysis: Maps and charts highlighting coffee quality variations across different regions.
+- Processing Methods: Pie charts and bar graphs depicting the impact of processing methods on coffee quality.
+- Defect Analysis: Scatter plots and line charts illustrating trends in defect occurrences.
 
 
 
 ## DAX Formulas Used 
 Some of the key DAX formulas used in the project include:
-Total Score: Total Score = SUM(SensoryScores[Score])
-Average Score: Average Score = AVERAGE(SensoryScores[Score])
-Defect Percentage: Defect Percentage = DIVIDE(COUNT(Defects[DefectID]), COUNT(CoffeeSamples[SampleID]), 0)
+- Total Score: Total Score = SUM(SensoryScores[Score])
+- Average Score: Average Score = AVERAGE(SensoryScores[Score])
+- Defect Percentage: Defect Percentage = DIVIDE(COUNT(Defects[DefectID]), COUNT(CoffeeSamples[SampleID]), 0)
 
 ## Questions and Analysis : 
 1. What are the key factors contributing to high coffee quality scores?
