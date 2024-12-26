@@ -35,6 +35,15 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 4. *Creating Relationships:* Relationships between tables were established to ensure proper data connectivity and analysis. For instance, linking sensory scores with their corresponding coffee samples and processing methods.
 5. *Adding Calculated Columns and Measures:* DAX (Data Analysis Expressions) formulas were used to create calculated columns and measures essential for analysis.
 
+# Dashboard 
+![Screenshot 2024-12-26 122615](https://github.com/user-attachments/assets/27c12920-cdae-47f3-99cd-24f7631c7a1e)
+
+![Screenshot 2024-12-26 122632](https://github.com/user-attachments/assets/754323d7-e733-455e-a3a3-1c3788850196)
+
+![Screenshot 2024-12-26 122644](https://github.com/user-attachments/assets/354a3f41-e366-402b-a8e7-84d9e5cab0e9)
+
+![Screenshot 2024-12-26 122659](https://github.com/user-attachments/assets/b95c7472-2fce-4391-b8f4-fb1e1bb4e83f)
+
 ## Dashboard Requirements
 The dashboard includes various visualizations to provide a comprehensive overview of the data:
 - Score Distribution: Bar charts and histograms showing the distribution of sensory scores.
