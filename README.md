@@ -42,6 +42,7 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 
 ![Screenshot 2024-12-26 122644](https://github.com/user-attachments/assets/354a3f41-e366-402b-a8e7-84d9e5cab0e9)
 
+![Screenshot 2024-12-26 123938](https://github.com/user-attachments/assets/0d7375e5-e30e-42d5-be88-378cc4bf92f3)
 
 ## Dashboard Requirements
 The dashboard includes various visualizations to provide a comprehensive overview of the data:
@@ -60,13 +61,17 @@ Some of the key DAX formulas used in the project include:
 
 ## Questions and Analysis : 
 1. What are the key factors contributing to high coffee quality scores?
--> Analyzed sensory attributes and identified which attributes most significantly influence the total cup points.
+   - Analyzed sensory attributes and identified which attributes most significantly influence the total cup points.
 2. How do processing methods affect coffee quality?
--> Compared the average quality scores across different processing methods.
+   -Compared the average quality scores across different processing methods.
 3. Are there any regional trends in coffee quality?
--> Mapped out the regions to see which areas produce the highest quality coffee.
-5. What trends exist in defect occurrences, and how do they impact quality?
--> Identified patterns in defect occurrences and their correlation with quality scores.
+   - Mapped out the regions to see which areas produce the highest quality coffee.
+4. What trends exist in defect occurrences, and how do they impact quality?
+   - Identified patterns in defect occurrences and their correlation with quality scores.
+5. What are the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, acidity, etc.?
+6. Is there a correlation between processing methods, origin regions, and coffee quality scores?
+7. Can we identify any trends or patterns in defect occurrences and their impact on overall coffee quality?
+8. How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
 
 ## Conclusion 
 he analysis revealed that certain sensory attributes, such as flavor and aroma, are strong indicators of high coffee quality. Processing methods also play a significant role, with washed and natural methods generally yielding higher quality scores. Additionally, specific regions consistently produce superior coffee, highlighting the importance of origin in coffee quality. The findings from this project can help coffee producers and marketers focus on the key areas that enhance coffee quality, ultimately leading to better products and customer satisfaction.
