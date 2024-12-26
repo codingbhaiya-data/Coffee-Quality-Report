@@ -42,7 +42,6 @@ Defects are undesirable qualities that can occur in coffee beans during processi
 
 ![Screenshot 2024-12-26 122644](https://github.com/user-attachments/assets/354a3f41-e366-402b-a8e7-84d9e5cab0e9)
 
-![Screenshot 2024-12-26 122659](https://github.com/user-attachments/assets/b95c7472-2fce-4391-b8f4-fb1e1bb4e83f)
 
 ## Dashboard Requirements
 The dashboard includes various visualizations to provide a comprehensive overview of the data:
